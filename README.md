@@ -8,6 +8,7 @@
 **Rails**
 
 
+
 **Angularjs**
 
 
@@ -17,7 +18,14 @@
 **UX/UI**
 
 
+**Markdown**
+
+
 **MySQL**
 
 
 **Riak**
+
+
+**Development Tools**
+
