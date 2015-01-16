@@ -1,11 +1,20 @@
-# Stack-Training-Resources
+# Stack-Training-and-Resources
 
 
 #### Ruby
 
+* [Ruby Documentation](http://www.ruby-doc.org/) - Ruby Doc.org
+
+* [CodeSchool](https://www.codeschool.com/paths/ruby) - Codeschool on Ruby. 
+
+* [CodeAcademy](http://www.codecademy.com/en/tracks/ruby) - Codeacademy on Ruby.
+
 * [ORM](http://www.sitepoint.com/orm-ruby-introduction/) - Introduction into the ORM in Ruby.
 
 
+#### Ruby Gems
+
+* [Rubygem Status](https://status.rubygems.org/) - Status on Ruby Gems
 
 #### Rails
 
@@ -36,9 +45,6 @@
 
 * [Smashing Magazine](www.smashingmagazine.com) - Smashing Magazine Website
 
-* 
-
-
 #### MySQL
 
 
@@ -50,6 +56,8 @@
 
 #### Git
 
+* [Github Classes](https://training.github.com/classes/) Github Training Classes, online/in-person.
+
 * [Pro Git](http://git-scm.com/book/en/v2) - The entire Pro Git Book online.
 
 * [Set up Git](https://help.github.com/articles/set-up-git/) - Setting up git, Github Help Documentation.
@@ -57,6 +65,12 @@
 * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - Generating SSH Keys, Github Help Documentation.
 
 #### Development Tools
+
+* [Interactive Vim Tutorial](http://www.openvim.com/) - Interactive Vim Tutorial.
+
+* [Learning Vim](http://benmccormick.org/learning-vim-in-2014/) - Tutorial Series on learning Vim, from the basics to config.
+
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) - Ebook on learning how to customize Vim.
 
 
 #### Design Tools
