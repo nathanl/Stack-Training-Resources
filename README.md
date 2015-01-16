@@ -32,13 +32,36 @@
 
 #### UX/UI
 
+* [UX Magazine](www.uxmag.com) - UX Magazine Website
+
+* [Smashing Magazine](www.smashingmagazine.com) - Smashing Magazine Website
+
+* 
+
 
 #### MySQL
 
 
 #### Riak
 
+* [Little Riak Book](http://littleriakbook.com/#toc_0) - Ebook on Riak, Read and Comprehend Guide.
+
+* [Riak Five-minute Install](http://docs.basho.com/riak/latest/quickstart/) - Tutorial on setting up riak.
+
+#### Git
+
+* [Pro Git](http://git-scm.com/book/en/v2) - The entire Pro Git Book online.
+
+* [Set up Git](https://help.github.com/articles/set-up-git/) - Setting up git, Github Help Documentation.
+
+* [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - Generating SSH Keys, Github Help Documentation.
+
 #### Development Tools
+
+
+#### Design Tools
+
+* [Google Fonts](http://www.google.com/fonts) - Google Fonts 
 
 #### Markdown
 
