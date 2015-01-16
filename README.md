@@ -1,7 +1,7 @@
 # Stack-Training-Resources
 
 
-**Ruby**
+### Ruby
 
 
 
