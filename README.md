@@ -28,6 +28,8 @@
 
 * [Angular.js org](https://angularjs.org/) - Angular.js org home page. 
 
+* [Egghead Angular.js](https://egghead.io/technologies/angularjs) - Egghead's video lessions on Angular.js, over 200+ lessions.
+
 * [Large Library of Angular.js Resources](https://github.com/csrobinson86/AngularJS-Learning) - Git Repo of a very large library of Angular.js resources.
 
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
@@ -60,6 +62,8 @@
 
 * [Pro Git](http://git-scm.com/book/en/v2) - The entire Pro Git Book online.
 
+* [GitReady](www.gitready.com) - Tutorials for various level of git experience.
+
 * [Set up Git](https://help.github.com/articles/set-up-git/) - Setting up git, Github Help Documentation.
 
 * [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys/) - Generating SSH Keys, Github Help Documentation.
@@ -80,6 +84,10 @@
 #### Markdown
 
 * [Interactive Markdown Tutorial](http://markdowntutorial.com/) - Interactive Markdown Tutorial to learn how to effectively use Markdown.
+
+#### Front-End Specific Library
+
+* [Libary of Front-End Resources](https://github.com/csrobinson86/frontend-dev-bookmarks) - Large Library of Front-End Resources.
 
 #### Free Programming Books
 
