@@ -9,7 +9,17 @@
 
 * [CodeAcademy](http://www.codecademy.com/en/tracks/ruby) - Codeacademy on Ruby.
 
+* [Library Ruby on Rails Bookmarks](https://github.com/csrobinson86/ruby-bookmarks) - Large libray of Ruby & Rails resources for all levels of experience.
+
+* [Ruby Monk](https://rubymonk.com/) - Interactive Guide for Learning Ruby, various levels of experience.
+
+* [Bastards book of Ruby](http://ruby.bastardsbook.com/) - Ebook Resource of Learning Ruby syntax.
+
+* [RubyLearning](http://rubylearning.com/satishtalim/tutorial.html) - Large Tutorial for learning Ruby top to bottom.
+
 * [ORM](http://www.sitepoint.com/orm-ruby-introduction/) - Introduction into the ORM in Ruby.
+
+* [Ruby Object Model](https://www.youtube.com/watch?v=X2sgQ38UDVY) - Talk by Dave Thomas on Ruby's object model, great talk!
 
 
 #### Ruby Gems
