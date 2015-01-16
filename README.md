@@ -42,7 +42,19 @@
 
 * [Large Library of Angular.js Resources](https://github.com/csrobinson86/AngularJS-Learning) - Git Repo of a very large library of Angular.js resources.
 
+* [Angular.js Tutorial: A Comprehensive 10,000 word guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial) - Large Tutorial
+
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
+
+* [Air-pair Angular.js blog posts](https://www.airpair.com/angularjs#tagposts) - Great resource for tutorials and resource on Angular.js.
+
+* [Beginners Guide: Angular.js - Rails](https://www.honeybadger.io/blog/2013/12/11/beginners-guide-to-angular-js-rails) - Tutorial
+
+* [Complete Angular.js - Rails](http://angular-rails.com/) - Ebook on Angular.js and Rails
+
+* [Creating a Skeleton App](http://angular-rails.com/bootstrap.html) - Creating skeleton Angular.js and Rails app.
+
+* [Angular.js Tutorial with Rails](https://thinkster.io/angulartutorial/angular-rails/) - Build Web apps with Angular.js and Rails 4.
 
 #### Coffeescript
 
@@ -56,6 +68,12 @@
 * [UX Magazine](www.uxmag.com) - UX Magazine Website
 
 * [Smashing Magazine](www.smashingmagazine.com) - Smashing Magazine Website
+
+* [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) - UX crash course on fundamentals
+
+* [UX User Psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology) - UX crash course on user psychology
+
+
 
 #### MySQL
 
@@ -85,6 +103,8 @@
 * [Learning Vim](http://benmccormick.org/learning-vim-in-2014/) - Tutorial Series on learning Vim, from the basics to config.
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) - Ebook on learning how to customize Vim.
+
+* [Chrome DevTools](http://discover-devtools.codeschool.com/) - Codeschool on learning how to use Chrome DevTools, 'inspect element'.
 
 
 #### Design Tools
