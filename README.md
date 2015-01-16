@@ -5,27 +5,25 @@
 
 
 
-**Rails**
+### Rails
 
 
 
-**Angularjs**
+### Angularjs
+
+### Coffeescript
 
 
-**Coffeescript**
+### UX/UI
 
 
-**UX/UI**
+### Markdown
 
 
-**Markdown**
+### MySQL
 
 
-**MySQL**
+### Riak
 
-
-**Riak**
-
-
-**Development Tools**
+### Development Tools
 
