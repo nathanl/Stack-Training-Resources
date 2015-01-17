@@ -35,8 +35,6 @@
 
 #### Rails
 
-* [Creating a basic rails application](http://nbucciarelli.github.io/blog/2014/04/16/creating-a-basic-rails-application/) - Great Tutorial creating a basic Rails Application. -Created by: Nick Bucciarelli
-
 * [Rails Tutorial](https://www.railstutorial.org/book) - Ebook by Michael Hartl 
 
 * [Go Rails](https://gorails.com/episodes) - Gorails.com screencast.
