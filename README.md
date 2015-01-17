@@ -32,13 +32,21 @@
 
 * [Angular.js App in Rails](http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Large Tutorial Series about using Angular.js with Rails application.
 
+#### Haml
 
+* [Haml Docs](http://haml.info/docs/yardoc/file.REFERENCE.html) - Haml docs.
+
+* [Haml Introduction](http://jonathandean.com/2011/10/an-introduction-to-sass-and-haml/) - Introduction into Haml
+
+* [Haml Tutorial](http://haml.info/tutorial.html) - Tutorial on Haml
 
 #### Angular.js
 
 * [Angular.js org](https://angularjs.org/) - Angular.js org home page. 
 
 * [Egghead Angular.js](https://egghead.io/technologies/angularjs) - Egghead's video lessions on Angular.js, over 200+ lessions.
+
+* [Large Library of Links](http://www.linkplugapp.com/a/922836) - Large library of links to Angular.js resources.
 
 * [Large Library of Angular.js Resources](https://github.com/csrobinson86/AngularJS-Learning) - Git Repo of a very large library of Angular.js resources.
 
@@ -107,9 +115,17 @@
 * [Chrome DevTools](http://discover-devtools.codeschool.com/) - Codeschool on learning how to use Chrome DevTools, 'inspect element'.
 
 
-#### Design Tools
+#### Design Tools and Resources
 
 * [Google Fonts](http://www.google.com/fonts) - Google Fonts 
+
+* [Responsive Design](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085) - 16 Tutorials on RWD.
+
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Adobe Color Wheel
+
+* [Various Color Palettes](http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project) - Various Color Palettes.
+
+* [Unsplash Photo's](https://unsplash.com/) - Unplash Photo's, High quality photos(Free)
 
 #### Markdown
 
