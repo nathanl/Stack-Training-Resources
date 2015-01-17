@@ -35,6 +35,8 @@
 
 #### Rails
 
+* [Rails Guide](http://guides.rubyonrails.org/) - Rails Guide.org
+
 * [Rails Tutorial](https://www.railstutorial.org/book) - Ebook by Michael Hartl 
 
 * [Go Rails](https://gorails.com/episodes) - Gorails.com screencast.
@@ -140,10 +142,14 @@
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) - Ebook on learning how to customize Vim.
 
+* [Vimgolf](http://www.vimgolf.com/) - Vim challenges
+
 * [Chrome DevTools](http://discover-devtools.codeschool.com/) - Codeschool on learning how to use Chrome DevTools, 'inspect element'.
 
 
 #### Design Tools and Resources
+
+* [Can I Use](http://caniuse.com/) - Browser tool to check what can be used. (HTML,CSS,JS,etc.)
 
 * [Google Fonts](http://www.google.com/fonts) - Google Fonts 
 
@@ -156,6 +162,10 @@
 * [Various Color Palettes](http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project) - Various Color Palettes.
 
 * [Unsplash Photo's](https://unsplash.com/) - Unplash Photo's, High quality photos(Free)
+
+* [Bootstrap](http://getbootstrap.com/) - Bootstrap Website
+
+* [Foundation](http://foundation.zurb.com/) - Foundation Website
 
 #### REST Architectural
 
