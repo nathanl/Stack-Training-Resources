@@ -5,6 +5,8 @@
 
 * [Ruby Documentation](http://www.ruby-doc.org/) - Ruby Doc.org
 
+* [Ruby Language](https://www.ruby-lang.org/en/) - Ruby Language.org
+
 * [CodeSchool](https://www.codeschool.com/paths/ruby) - Codeschool on Ruby. 
 
 * [CodeAcademy](http://www.codecademy.com/en/tracks/ruby) - Codeacademy on Ruby.
@@ -21,10 +23,15 @@
 
 * [Ruby Object Model](https://www.youtube.com/watch?v=X2sgQ38UDVY) - Talk by Dave Thomas on Ruby's object model, great talk!
 
+* [Block, a Proc, and a Lambda in Ruby](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/) - Guide on the difference between blocks, procs, and lambda.
 
 #### Ruby Gems
 
 * [Rubygem Status](https://status.rubygems.org/) - Status on Ruby Gems
+
+* [Omiauth Tutorial](http://natashatherobot.com/rails-omniauth-github-tutorial/) - Tutorial on using ominauth with rails.
+
+* [Devise](https://github.com/plataformatec/devise) - Devise Gem Github
 
 #### Rails
 
@@ -36,6 +43,9 @@
 
 * [Creating a basic rails application](http://nbucciarelli.github.io/blog/2014/04/16/creating-a-basic-rails-application/) - Great Tutorial creating a basic Rails Application. -Created by: Nick Bucciarelli
 
+#### Rspec
+
+* [Codeschool Testing with Rspec](https://www.codeschool.com/courses/testing-with-rspec) - Codeschool's testing with Rspec.
 
 #### Haml
 
@@ -44,6 +54,8 @@
 * [Haml Introduction](http://jonathandean.com/2011/10/an-introduction-to-sass-and-haml/) - Introduction into Haml
 
 * [Haml Tutorial](http://haml.info/tutorial.html) - Tutorial on Haml
+
+* [HTML2HAML](http://html2haml.herokuapp.com/) - Convert Html Snippets to Haml Snippets 
 
 #### Angular.js
 
@@ -56,6 +68,8 @@
 * [Large Library of Angular.js Resources](https://github.com/csrobinson86/AngularJS-Learning) - Git Repo of a very large library of Angular.js resources.
 
 * [Angular.js Tutorial: A Comprehensive 10,000 word guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial) - Large Tutorial
+
+* [Getting Started with Angular.js](https://scotch.io/collections/getting-started-with-angularjs) - Series of Tutorials on learning Angular.js
 
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
 
@@ -77,6 +91,8 @@
 
 * [Codeschool Coffeescript Basics](http://coffeescript.codeschool.com/levels/1) - Interactive Guide to learning Coffeescript basics.
 
+* [Railscast on Coffeescript Basics](http://railscasts.com/episodes/267-coffeescript-basics) - Railscast onf Coffeescript basics.
+
 
 #### UX/UI
 
@@ -88,10 +104,17 @@
 
 * [UX User Psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology) - UX crash course on user psychology
 
+* [52 Weeks of UX](http://52weeksofux.com/tagged/week_1) - 52 week guide to learning UX.
 
+* [101 on U1](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) - Introduction to Usability.
 
 #### MySQL
 
+* [Understanding SQL Through Rails](http://www.sitepoint.com/understanding-sql-rails/) - Tutorial on SQL
+
+* [Interactive Guide](http://www.sqlcourse.com/) - Interactive Guide for SQL
+
+* [SQL Tutorial](http://www.tutorialspoint.com/sql/index.htm) - Large Tutorial on SQL.
 
 #### Riak
 
@@ -126,6 +149,8 @@
 
 * [Google Fonts](http://www.google.com/fonts) - Google Fonts 
 
+* [Fonts in Use](http://fontsinuse.com/) - Resource that shows fonts in use in different industries.
+
 * [Responsive Design](http://www.creativebloq.com/netmag/16-really-useful-responsive-design-tutorials-71410085) - 16 Tutorials on RWD.
 
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/) - Adobe Color Wheel
@@ -133,6 +158,10 @@
 * [Various Color Palettes](http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project) - Various Color Palettes.
 
 * [Unsplash Photo's](https://unsplash.com/) - Unplash Photo's, High quality photos(Free)
+
+#### REST Architectural
+
+* [REST API Tutorial](http://www.restapitutorial.com/lessons/whatisrest.html) - REST Tutorial
 
 #### Markdown
 
