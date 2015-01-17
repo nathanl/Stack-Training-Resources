@@ -43,6 +43,8 @@
 
 * [Creating a basic rails application](http://nbucciarelli.github.io/blog/2014/04/16/creating-a-basic-rails-application/) - Great Tutorial creating a basic Rails Application. -Created by: Nick Bucciarelli
 
+* [Asset Pipeline](http://railscasts.com/episodes/279-understanding-the-asset-pipeline) - Railscast video on understanding asset pipeline.
+
 #### Rspec
 
 * [Codeschool Testing with Rspec](https://www.codeschool.com/courses/testing-with-rspec) - Codeschool's testing with Rspec.
@@ -71,6 +73,8 @@
 
 * [Getting Started with Angular.js](https://scotch.io/collections/getting-started-with-angularjs) - Series of Tutorials on learning Angular.js
 
+* [Angular.js hands on tutorial](http://thejackalofjavascript.com/angularjs-hands-on-tutorial/) - Hands on Tutorial, Angular.js
+
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
 
 * [Air-pair Angular.js blog posts](https://www.airpair.com/angularjs#tagposts) - Great resource for tutorials and resource on Angular.js.
@@ -93,6 +97,8 @@
 
 * [Railscast on Coffeescript Basics](http://railscasts.com/episodes/267-coffeescript-basics) - Railscast onf Coffeescript basics.
 
+* [Learning Tutorial on Coffeescript](https://github.com/spencereldred/CoffeeScript) - Tutorial on learning Coffeescript.
+
 
 #### UX/UI
 
@@ -106,7 +112,7 @@
 
 * [52 Weeks of UX](http://52weeksofux.com/tagged/week_1) - 52 week guide to learning UX.
 
-* [101 on U1](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) - Introduction to Usability.
+* [101 on UI](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) - Introduction to Usability.
 
 #### MySQL
 
