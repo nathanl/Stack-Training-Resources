@@ -28,9 +28,14 @@
 
 #### Rails
 
+* [Creating a basic rails application](http://nbucciarelli.github.io/blog/2014/04/16/creating-a-basic-rails-application/) - Great Tutorial creating a basic Rails Application. -Created by: Nick Bucciarelli
+
+* [Rails Tutorial](https://www.railstutorial.org/book) - Ebook by Michael Hartl 
+
 * [Go Rails](https://gorails.com/episodes) - Gorails.com screencast.
 
-* [Angular.js App in Rails](http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Large Tutorial Series about using Angular.js with Rails application.
+* [Creating a basic rails application](http://nbucciarelli.github.io/blog/2014/04/16/creating-a-basic-rails-application/) - Great Tutorial creating a basic Rails Application. -Created by: Nick Bucciarelli
+
 
 #### Haml
 
@@ -55,6 +60,8 @@
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
 
 * [Air-pair Angular.js blog posts](https://www.airpair.com/angularjs#tagposts) - Great resource for tutorials and resource on Angular.js.
+
+* [Angular.js App in Rails](http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Large Tutorial Series about using Angular.js with Rails application.
 
 * [Beginners Guide: Angular.js - Rails](https://www.honeybadger.io/blog/2013/12/11/beginners-guide-to-angular-js-rails) - Tutorial
 
