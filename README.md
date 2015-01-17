@@ -11,6 +11,8 @@
 
 * [CodeAcademy](http://www.codecademy.com/en/tracks/ruby) - Codeacademy on Ruby.
 
+* [Sitepoint Ruby](http://www.sitepoint.com/ruby/) - Sitepoint's articles, tutorials on Ruby, great resource!
+
 * [Library Ruby on Rails Bookmarks](https://github.com/csrobinson86/ruby-bookmarks) - Large libray of Ruby & Rails resources for all levels of experience.
 
 * [Ruby Monk](https://rubymonk.com/) - Interactive Guide for Learning Ruby, various levels of experience.
@@ -69,6 +71,10 @@
 
 * [Large Library of Angular.js Resources](https://github.com/csrobinson86/AngularJS-Learning) - Git Repo of a very large library of Angular.js resources.
 
+* [Overview of Angular.js](http://andrewaustin.com/an-overview-of-angularjs-for-managers/?utm_content=buffer98edb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - An overview of Angular.js
+
+* [Webcodegeeks](http://www.webcodegeeks.com/javascript/angular-js/) - Webcodegeeks articles on Angular.js
+
 * [Angular.js Tutorial: A Comprehensive 10,000 word guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial) - Large Tutorial
 
 * [Getting Started with Angular.js](https://scotch.io/collections/getting-started-with-angularjs) - Series of Tutorials on learning Angular.js
@@ -78,6 +84,8 @@
 * [Tutorial: Reddit Clone](https://thinkster.io/angulartutorial/learn-to-build-realtime-webapps/) - Angular.js Tutorial learning to build a real-time reddit clone.
 
 * [Air-pair Angular.js blog posts](https://www.airpair.com/angularjs#tagposts) - Great resource for tutorials and resource on Angular.js.
+
+* [20 Angular.js resources & tutorials](http://webdesignledger.com/resources/20-free-angular-resources-tutorials?utm_content=bufferab73b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - 20 Free Angular.js resources & tutorials.
 
 * [Angular.js App in Rails](http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Large Tutorial Series about using Angular.js with Rails application.
 
@@ -112,7 +120,11 @@
 
 * [52 Weeks of UX](http://52weeksofux.com/tagged/week_1) - 52 week guide to learning UX.
 
+* [Sitepoint Design & UX](http://www.sitepoint.com/design-ux/) - Sitepoint's aritcles & tutorials on Design & UX.
+
 * [101 on UI](http://www.nngroup.com/articles/usability-101-introduction-to-usability/) - Introduction to Usability.
+
+* [Color Theory](http://www.colormatters.com/color-and-design/basic-color-theory) - Introduction into Color Theory
 
 #### MySQL
 
@@ -152,6 +164,7 @@
 
 * [Chrome DevTools](http://discover-devtools.codeschool.com/) - Codeschool on learning how to use Chrome DevTools, 'inspect element'.
 
+* [Development Docs](http://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
 #### Design Tools and Resources
 
@@ -205,9 +218,11 @@
 
 * [Interactive Markdown Tutorial](http://markdowntutorial.com/) - Interactive Markdown Tutorial to learn how to effectively use Markdown.
 
-#### Front-End Specific Library
+#### Front-End Specific Resources(HTML, CSS, & JS)
 
 * [Libary of Front-End Resources](https://github.com/csrobinson86/frontend-dev-bookmarks) - Large Library of Front-End Resources.
+
+* [Sitepoints HTML & CSS](http://www.sitepoint.com/html-css/) - Sitepoint's articles & tutorials on HTML & CSS.
 
 #### Free Programming Books
 
