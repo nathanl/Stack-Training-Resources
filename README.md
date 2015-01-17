@@ -173,6 +173,30 @@
 
 * [Foundation](http://foundation.zurb.com/) - Foundation Website
 
+#### D3.js 
+
+* [D3.js](http://d3js.org/) - D3js org website
+
+* [D3js Tutorial](https://www.dashingd3js.com/table-of-contents) - D3js Tutorial
+
+#### Node.js
+
+* [Node.js Org](http://nodejs.org/) - Node.js org website
+
+* [Node.js for Beginners](http://blog.modulus.io/absolute-beginners-guide-to-nodejs) - Guide on Node.js for Beginners.
+
+* [Why would I use Node.js](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js) - Greate article on why to use Node.js.
+
+* [Node.js Fundamentals](http://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/) - Understanding Node.js Fundamentals.
+
+* [Nodeschool](http://nodeschool.io/#workshoppers) - Interactive tutorials on learning Node.
+
+* [Node.js Ebook](http://book.mixu.net/node/) - A Ebook about using Node.js.
+
+* [Video Tutorials](http://nodetuts.com/) - Video Tutorials on Node.js
+
+* [Beginners Node.js Ebook](http://nodeguide.com/beginner.html) - Ebook for Beginners of Node.js.
+
 #### REST Architectural
 
 * [REST API Tutorial](http://www.restapitutorial.com/lessons/whatisrest.html) - REST Tutorial
