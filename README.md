@@ -224,6 +224,8 @@
 
 * [Sitepoints HTML & CSS](http://www.sitepoint.com/html-css/) - Sitepoint's articles & tutorials on HTML & CSS.
 
+* [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html) - Eloquent Javascript
+
 #### Free Programming Books
 
 * [Large Library of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/) - Huge Library of Free programming books!
