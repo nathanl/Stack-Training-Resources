@@ -61,6 +61,8 @@
 
 * [Haml Tutorial](http://haml.info/tutorial.html) - Tutorial on Haml
 
+* [Introduction to Haml](http://www.sitepoint.com/an-introduction-to-haml/) - Sitepoint Article, Intro to Haml
+
 * [HTML2HAML](http://html2haml.herokuapp.com/) - Convert Html Snippets to Haml Snippets 
 
 #### Angular.js
