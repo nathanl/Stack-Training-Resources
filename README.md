@@ -188,6 +188,8 @@
 
 * [Foundation](http://foundation.zurb.com/) - Foundation Website
 
+* [Foundation with Rails App](http://foundation.zurb.com/docs/applications.html) - Adding Foundation to Rails Application.
+
 #### D3.js 
 
 * [D3.js](http://d3js.org/) - D3js org website
