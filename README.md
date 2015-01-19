@@ -35,6 +35,8 @@
 
 * [Devise](https://github.com/plataformatec/devise) - Devise Gem Github
 
+* [Simple Form](https://github.com/plataformatec/simple_form) - Simple Form Gem Github
+
 #### Rails
 
 * [Rails Guide](http://guides.rubyonrails.org/) - Rails Guide.org
