@@ -232,6 +232,8 @@
 
 * [Eloquent Javascript](http://eloquentjavascript.net/02_program_structure.html) - Eloquent Javascript
 
+* [Mozilla Developer Network - Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network - Javascript 
+
 #### Free Programming Books
 
 * [Large Library of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/) - Huge Library of Free programming books!
