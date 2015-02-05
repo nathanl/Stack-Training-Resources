@@ -160,6 +160,8 @@
 
 * [Interactive Vim Tutorial](http://www.openvim.com/) - Interactive Vim Tutorial.
 
+* [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif) - Vim Cheat Sheet 
+
 * [Learning Vim](http://benmccormick.org/learning-vim-in-2014/) - Tutorial Series on learning Vim, from the basics to config.
 
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/) - Ebook on learning how to customize Vim.
