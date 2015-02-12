@@ -226,6 +226,8 @@
 
 * [Interactive Markdown Tutorial](http://markdowntutorial.com/) - Interactive Markdown Tutorial to learn how to effectively use Markdown.
 
+* [Markdown Cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet) Markdown cheatsheet
+
 #### Front-End Specific Resources(HTML, CSS, & JS)
 
 * [Libary of Front-End Resources](https://github.com/csrobinson86/frontend-dev-bookmarks) - Large Library of Front-End Resources.
