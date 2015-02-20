@@ -158,6 +158,8 @@
 
 #### Development Tools
 
+* [Omniref](https://www.omniref.com/) - Omniref is a code-based reference, maintained by and for the programming community, Useful for finding docs on Ruby, JS, Gems, and Packages.
+
 * [Interactive Vim Tutorial](http://www.openvim.com/) - Interactive Vim Tutorial.
 
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif) - Vim Cheat Sheet 
