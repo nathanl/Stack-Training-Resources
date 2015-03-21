@@ -114,9 +114,9 @@
 
 #### UX/UI
 
-* [UX Magazine](www.uxmag.com) - UX Magazine Website
+* [UX Magazine](http://www.uxmag.com) - UX Magazine Website
 
-* [Smashing Magazine](www.smashingmagazine.com) - Smashing Magazine Website
+* [Smashing Magazine](http://www.smashingmagazine.com) - Smashing Magazine Website
 
 * [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) - UX crash course on fundamentals
 
