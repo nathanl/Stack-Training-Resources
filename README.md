@@ -37,6 +37,10 @@
 
 * [Simple Form](https://github.com/plataformatec/simple_form) - Simple Form Gem Github
 
+#### Clojure
+
+* [Learn Clojure](http://learn-clojure.com/) - Resource with articles, videos, and tutorials.
+
 #### Rails
 
 * [Rails Guide](http://guides.rubyonrails.org/) - Rails Guide.org
