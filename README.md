@@ -1,4 +1,4 @@
-# Stack-Training-and-Resources
+## Stack-Training-and-Resources
 
 
 #### Ruby
