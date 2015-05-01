@@ -7,6 +7,8 @@
 
 * [Ruby Language](https://www.ruby-lang.org/en/) - Ruby Language.org
 
+* [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) - Learning Ruby Syntax
+
 * [CodeSchool](https://www.codeschool.com/paths/ruby) - Codeschool on Ruby. 
 
 * [CodeAcademy](http://www.codecademy.com/en/tracks/ruby) - Codeacademy on Ruby.
@@ -40,6 +42,8 @@
 #### Clojure
 
 * [Learn Clojure](http://learn-clojure.com/) - Resource with articles, videos, and tutorials.
+
+* [Long Tutorial on Clojure](http://www.braveclojure.com/) - Long tutorial on learning Clojure
 
 #### Rails
 
