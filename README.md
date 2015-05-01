@@ -140,6 +140,8 @@
 
 #### MySQL
 
+* [Interactive Lessons and Exercises](http://sqlbolt.com/) - A series of interactive lessons and exercises
+
 * [Understanding SQL Through Rails](http://www.sitepoint.com/understanding-sql-rails/) - Tutorial on SQL
 
 * [Interactive Guide](http://www.sqlcourse.com/) - Interactive Guide for SQL
