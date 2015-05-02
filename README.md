@@ -31,6 +31,8 @@
 
 #### Ruby Gems
 
+* [Factory Girl](https://www.launchacademy.com/codecabulary/learn-rails/factory-girl) Factory Girl Gem
+
 * [Rubygem Status](https://status.rubygems.org/) - Status on Ruby Gems
 
 * [Omiauth Tutorial](http://natashatherobot.com/rails-omniauth-github-tutorial/) - Tutorial on using ominauth with rails.
