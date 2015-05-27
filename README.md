@@ -238,6 +238,8 @@
 
 #### Markdown
 
+* [Markdown Basics from Github Help](https://help.github.com/articles/markdown-basics/) - Markdown Basics by Github Help
+
 * [Interactive Markdown Tutorial](http://markdowntutorial.com/) - Interactive Markdown Tutorial to learn how to effectively use Markdown.
 
 * [Markdown Cheatsheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet) Markdown cheatsheet
