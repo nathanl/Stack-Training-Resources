@@ -156,6 +156,10 @@
 
 * [Riak Five-minute Install](http://docs.basho.com/riak/latest/quickstart/) - Tutorial on setting up riak.
 
+#### PostgreSQL
+
+*[Planet Postgresql ]( https://planet.postgresql.org/) A site dedicated to aggregating PostgreSQL related blogs.
+
 #### Git
 
 * [Github Classes](https://training.github.com/classes/) Github Training Classes, online/in-person.
