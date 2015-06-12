@@ -158,7 +158,7 @@
 
 #### PostgreSQL
 
-*[Planet Postgresql ]( https://planet.postgresql.org/) A site dedicated to aggregating PostgreSQL related blogs.
+* [Planet Postgresql ]( https://planet.postgresql.org/) A site dedicated to aggregating PostgreSQL related blogs.
 
 #### Git
 
