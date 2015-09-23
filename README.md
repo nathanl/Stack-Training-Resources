@@ -264,9 +264,15 @@
 
 #### AWS
 
+[Amazon's AWS Documentation Directory](http://aws.amazon.com/documentation/)
+
 #### Free Programming Books
 
 * [Large Library of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/) - Huge Library of Free programming books!
 
 * [IT eBooks](http://it-ebooks.info/) - Another Large Resource to download ebooks.
+
+#### TMA-Developed Resources
+
+[Database Normalization](doc/normalization.md)
 
