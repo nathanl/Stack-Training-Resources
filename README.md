@@ -258,6 +258,10 @@
 
 * [Mozilla Developer Network - Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network - Javascript 
 
+#### Knime
+
+* [Knime](https://www.knime.org/)
+
 #### Nginx
 
 #### Docker
